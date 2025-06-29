@@ -1,0 +1,3 @@
+rule:
+  name: Brute Force Detection
+  condition: multiple_failed_logins > 5
